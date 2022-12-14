@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rajshreerajoliya14@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WX_EeSeWtm9003tkGuPyu_S5doHO1mB1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18YDqOtkq4ACDp_qLSodemtv1L_4i5I85/view?usp=sharing)
 
 - ⚡ Interests **Reading Blogs , Community work , Playing sports.**
 
