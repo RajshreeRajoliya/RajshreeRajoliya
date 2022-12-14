@@ -35,7 +35,7 @@
   
   <a href="https://github.com/RajshreeRajoliya/BlueflyProject" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bluefly&color=FC8019&logo=bluefly&logoColor=FFFFFF&label=" alt="bluefly_clone" /></a> 
   
-  <a href="https://github.com/RajshreeRajoliya/Walmart" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=E20074&logo=Walmart&logoColor=FFFFFF&label=" alt="walmart_clone" /></a>   
+  <a href="https://github.com/RajshreeRajoliya/Walmart" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=E20074&logo=&logoColor=FFFFFF&label=" alt="walmart_clone" /></a>   
      
 </p>
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
@@ -50,8 +50,7 @@
 <p align="center">
 <a href="https://github.com/RajshreeRajoliya">
   
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=
-RajshreeRajoliya&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajshreeRajoliya&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RajshreeRajoliya&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajshreeRajoliya&layout=compact&langs_count=8&theme=algolia"/>
 </a></p>
 
 <p align="center">
