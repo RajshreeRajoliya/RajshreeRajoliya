@@ -1,60 +1,118 @@
+<h1 align="center">Hi there! <span color="blue">I'm Rajshree Rajoliya</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)](https://git.io/typing-svg)
+  <br>
+  
+<!--   <p align="center" ><img  style="width: 500px;" src="https://egensoftwares.com/wp-content/uploads/2021/08/mern.png"/></p> -->
+<!--  <p align="center" ><img  style="width: 500px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif"/></p> -->
+ <p align="center" ><img  style="width: 350px" src="https://camo.githubusercontent.com/5fed19f52d68664c5b5475202b5626223460635ad3a399c68b718060698ddd79/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966"/></p>
+   
+ <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rajshree Rajoliya</h1><h3 align='center'>A Passionate Full Stack Web Developer from India.</h3>
+- 👨‍💻 My Portfolio - <a href="https://rajshree-rajoliya.netlify.app" style="color:blue; textDecoration:none;" target="_blank"><i>Rajshree Rajoliya</i></a>
 
-<h1 align="center"><img width="450" src="https://camo.githubusercontent.com/5fed19f52d68664c5b5475202b5626223460635ad3a399c68b718060698ddd79/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
-</h1>
+- 🌱 I’m currently learning *Data Structures and Algorithms.*
 
-<h3><i>About Me<img src="https://media0.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif?cid=ecf05e47h340606frgxceo0ffd3xjohtz4vlgsca6hturv4k&rid=giphy.gif&ct=g" width="50"/></i></h3>
+- 📫 How to reach me *rajshreerajoliya14@gmail.com*
 
-- 🌱 I’m currently learning **Frontend and Backend Technologies**.
+<br/>
 
-- 👯 I’m looking to collaborate on Frontend Stack.
+<img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966" alt="CAT"/>
 
-- 📫 How to reach me **rajshreerajoliya14@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18YDqOtkq4ACDp_qLSodemtv1L_4i5I85/view?usp=sharing)
+<h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 
-- ⚡ Interests **Reading Blogs , Community work , Playing sports.**
-
-<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+  <!-- <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" /> -->
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <!-- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" />  -->
+  <!-- <img src="https://rb.gy/v3tf3x" alt="Java" /> -->
 </p>
-<h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-<p align="left">
-  
-  <a href="https://github.com/RajshreeRajoliya/BlueflyProject" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bluefly&color=FC8019&logo=bluefly&logoColor=FFFFFF&label=" alt="bluefly_clone" /></a> 
-  
-  <a href="https://github.com/RajshreeRajoliya/Walmart" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Walmart&color=E20074&logo=&logoColor=FFFFFF&label=" alt="walmart_clone" /></a>   
-     
+
+<!-- <img src="" alt="" /> -->
+<h2><i>Tools | Use</i></h2>
+<p align="center">
+  <!-- <img border-radius:"10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> -->
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
+  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/rajshree-r/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rajshree" /></a>
-  
-  <a title="rajshreerajoliya14@gmail.com" href="mailto:rajshreerajoliya14@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rajshree" /></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajshree-r/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="rajshreerajoliya14  @gmail.com" href="mailto:rajshreerajoliya14@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://wa.me/8839128201" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
 </p>
-
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<br/>
+<h2>📊 Github Stats</h2>
+<br/>
 <p align="center">
-<a href="https://github.com/RajshreeRajoliya">
-  
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RajshreeRajoliya&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajshreeRajoliya&layout=compact&langs_count=8&theme=algolia"/>
-</a></p>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajshreeRajoliya&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajshreeRajoliya&hide_border=true&theme=moltack" />
+</p>
+<br />
 
+
+## 📕 Pinned Repositories
 <p align="center">
-<a href="https://github.com/RajshreeRajoliya/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RajshreeRajoliya&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
+ <a href="https://github.com/RajshreeRajoliya/MovieApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=MovieApp&hide_border=true&theme=yeblu" />
 </a>
+
+ <a href="https://github.com/RajshreeRajoliya/MERN-BLOG-APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=MERN-BLOG-APP&hide_border=true&theme=gruvbox_light" />
+</a>
+<p align="center">
+ <a href="https://github.com/RajshreeRajoliya/Walmart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=Walmart&hide_border=true&theme=gruvbox_light" />
+</a>
+ 
+<a href="https://github.com/RajshreeRajoliya/BlueflyProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=BlueflyProject&hide_border=true&theme=yeblu" />
+</a>
+
+
+
 </p>
+<hr>
+
+<br />
+<p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajshreeRajoliya&theme=codeSTACKr" alt=""/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RajshreeRajoliya&theme=jolly" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajshreeRajoliya&theme=jolly" alt="summarycard"/> </p>
+<br>
+<br>
+<br>
+<hr />
+<h3 align="center">
+
+</h3>
+<h3 align="center"> 
+  Visitor count <br>
+
+  <img src="https://profile-counter.glitch.me/RajshreeRajoliya/count.svg" />
+</h3>
+
+<a href="https://google.com" align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</a>
