@@ -10,7 +10,7 @@
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
-- 👨‍💻 My Portfolio - <a href="https://rajshree-rajoliya.netlify.app" style="color:blue; textDecoration:none;" target="_blank"><i>Rajshree Rajoliya</i></a>
+- 👨‍💻 My Portfolio - <a href="https://rajshreerajoliya.github.io/" style="color:blue; textDecoration:none;" target="_blank"><i>Rajshree Rajoliya</i></a>
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
