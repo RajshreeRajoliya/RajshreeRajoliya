@@ -75,8 +75,8 @@
 
 ## 📕 Pinned Repositories
 <p align="center">
- <a href="https://github.com/RajshreeRajoliya/MovieApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=MovieApp&hide_border=true&theme=yeblu" />
+ <a href="https://github.com/RajshreeRajoliya/Flipkart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=Flipkart&hide_border=true&theme=yeblu" />
 </a>
 
  <a href="https://github.com/RajshreeRajoliya/MERN-BLOG-APP">
