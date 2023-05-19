@@ -79,16 +79,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=Flipkart&hide_border=true&theme=yeblu" />
 </a>
 
- <a href="https://github.com/RajshreeRajoliya/MERN-BLOG-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=MERN-BLOG-APP&hide_border=true&theme=gruvbox_light" />
+ <a href="https://github.com/RajshreeRajoliya/Blog-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=Blog-Application&hide_border=true&theme=gruvbox_light" />
 </a>
 <p align="center">
  <a href="https://github.com/RajshreeRajoliya/Walmart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=Walmart&hide_border=true&theme=gruvbox_light" />
 </a>
  
-<a href="https://github.com/RajshreeRajoliya/BlueflyProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=BlueflyProject&hide_border=true&theme=yeblu" />
+<a href="https://github.com/RajshreeRajoliya/MovieApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repoMovieApp&hide_border=true&theme=yeblu" />
 </a>
 
 
