@@ -88,7 +88,7 @@
 </a>
  
 <a href="https://github.com/RajshreeRajoliya/MovieApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repoMovieApp&hide_border=true&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajshreeRajoliya&repo=MovieApp&hide_border=true&theme=yeblu" />
 </a>
 
 
